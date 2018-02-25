@@ -1,0 +1,6 @@
+mp ARM Cortex-M3
+32 bit
+garvard arh
+RISC
+4Gb
+16 RON
