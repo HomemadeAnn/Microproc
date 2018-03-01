@@ -4,3 +4,4 @@ garvard arh
 RISC
 4Gb
 16 RON
+------
